@@ -1,4 +1,7 @@
 # hello-world
 Initial Repository Project
 
-I have used Basic code and programmed in G-code for CNC machinery, but it's been a long time ago!
+I have programmed in Basic and also G-code for CNC Machinery - a long, long time ago.
+=======
+
+
